@@ -1,0 +1,4 @@
+flask
+opencv-python
+torch  # For YOLO integration later
+ultralytics

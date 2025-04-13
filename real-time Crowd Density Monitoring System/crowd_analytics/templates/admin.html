@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Admin Panel</h1>
+
+    <h2>User Management</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Username</th>
+                <th>Login Count</th>
+                <th>Last Login</th>
+                <th>Admin</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for user in users %}
+                <tr>
+                    <td>{{ user.username }}</td>
+                    <td>{{ user.login_count }}</td>
+                    <td>{{ user.last_login }}</td>
+                    <td>{{ 'Yes' if user.is_admin else 'No' }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="mode-toggle">
+        <label for="darkModeSwitch">Dark Mode</label>
+        <input type="checkbox" id="darkModeSwitch" onchange="toggleMode()">
+    </div>
+
+    <script>
+        function toggleMode() {
+            const isChecked = document.getElementById('darkModeSwitch').checked;
+            document.body.classList.toggle('dark-mode', isChecked);
+        }
+    </script>
+</body>
+</html>
+<!-- Compare this snippet from hackss/crowd_analytics/templates/styles.css: -->

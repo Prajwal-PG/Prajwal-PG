@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Register</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="auth-container">
+    <h2>Register</h2>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% for category, msg in messages %}
+        <div class="flash {{ category }}">{{ msg }}</div>
+      {% endfor %}
+    {% endwith %}
+    <form method="post">
+      <input name="username" type="text" placeholder="Choose a username" required>
+      <input name="password" type="password" placeholder="Choose a password" required>
+      <button type="submit">Sign Up</button>
+    </form>
+    <p>Already have an account? <a href="{{ url_for('login') }}">Log In</a></p>
+  </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Register</title>
+</head>
+<body>
+  <h2>Register</h2>
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% for category, message in messages %}
+      <p style="color:red;">{{ message }}</p>
+    {% endfor %}
+  {% endwith %}
+ 
+  <p>Already registered? <a href="{{ url_for('login') }}">Login</a></p>
+</body>
+</html>
+<!-- Compare this snippet from hackss/crowd_analytics/templates/dashboard.html: -->

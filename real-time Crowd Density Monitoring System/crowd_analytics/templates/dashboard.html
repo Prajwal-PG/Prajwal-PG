@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Live Crowd Monitoring</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Live Crowd Monitoring Dashboard</h1>
+    <div id="count">People Count: 0</div>
+    <form action="{{ url_for('trigger_alert') }}" method="post">
+      <button type="submit" class="btn btn-danger">🚨 Send Alert Email</button>
+  </form>
+  {% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    {% for category, message in messages %}
+      <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+        {{ message }}
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endwith %}
+
+    <canvas id="crowdChart" width="800" height="300"></canvas>
+    <div class="video-container">
+        <img src="{{ url_for('video_feed') }}" alt="Live Video Feed">
+    </div>
+
+    <script>
+        const ctx = document.getElementById('crowdChart').getContext('2d');
+        const crowdChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [],
+                datasets: [{
+                    label: 'People Count',
+                    data: [],
+                    borderColor: '#00ffae',
+                    backgroundColor: 'rgba(0,255,174,0.1)',
+                    borderWidth: 2,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: 'white' }},
+                    y: {
+                        beginAtZero: true,
+                        ticks: { color: 'white' }
+                    }
+                },
+                plugins: {
+                    legend: { labels: { color: 'white' } }
+                }
+            }
+        });
+
+        async function updateData() {
+            const res = await fetch('/crowd_data');
+            const data = await res.json();
+
+            const labels = data.map(item => new Date(item.time * 1000).toLocaleTimeString());
+            const counts = data.map(item => item.count);
+            document.getElementById('count').textContent = `People Count: ${counts[counts.length - 1] || 0}`;
+            crowdChart.data.labels = labels;
+            crowdChart.data.datasets[0].data = counts;
+            crowdChart.update();
+        }
+
+        setInterval(updateData, 2000);
+        updateData();
+    </script>
+</body>
+</html>

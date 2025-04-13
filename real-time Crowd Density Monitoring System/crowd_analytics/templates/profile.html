@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Profile</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>{{ user.username }}'s Profile</h1>
+
+    <p><strong>Login Count:</strong> {{ user.login_count }}</p>
+    <p><strong>Last Login:</strong> {{ last_login }}</p>
+
+    <div class="mode-toggle">
+        <label for="darkModeSwitch">Dark Mode</label>
+        <input type="checkbox" id="darkModeSwitch" onchange="toggleMode()">
+    </div>
+
+    <script>
+        function toggleMode() {
+            const isChecked = document.getElementById('darkModeSwitch').checked;
+            document.body.classList.toggle('dark-mode', isChecked);
+        }
+    </script>
+</body>
+</html>
