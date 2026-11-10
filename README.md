@@ -1,202 +1,260 @@
 
-# 👨‍💻 PRAJWAL P G
-### Cybersecurity Engineer | Applied AI Developer | Python Backend Developer
+<!-- ========================================================= -->
+<!-- PRAJWAL PG | CYBERSECURITY ENGINEERING PROFILE README     -->
+<!-- Repository: Prajwal-PG/Prajwal-PG                         -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Secure+Digital+Systems;Engineering+AI-Powered+Solutions;Exploring+Digital+Forensics;Developing+Intelligent+Security+Tools" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Prajwal-PG">
-    <img src="https://img.shields.io/badge/GitHub-Prajwal--PG-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-  </a>
-  <a href="https://www.linkedin.com/in/prajwal-pg/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prajwalzone68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:101B35,70:123B52,100:00E5FF&text=PRAJWAL%20P%20G&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20DIGITAL%20FORENSICS&descSize=13&descAlignY=58&animation=twinkling" width="100%" />
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Initializing+PrajwalPG.exe...;Cybersecurity+%7C+Digital+Forensics;Building+Secure+Systems+%26+Intelligent+Tools;Python+%7C+APIs+%7C+Cryptography;Think+Like+An+Engineer.+Secure+Like+A+Defender." />
 
-## `01. ABOUT_ME`
+<br/>
 
-I'm **Prajwal P G**, a final-year BCA student specializing in **Cyber Security & Digital Forensics** at Nitte University, graduating in 2027.
+<img src="https://komarev.com/ghpvc/?username=Prajwal-PG&label=PROFILE%20ACCESS&color=00e5ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Prajwal-PG?label=NETWORK&style=for-the-badge&color=7c4dff&labelColor=050816" />
 
-I focus on building practical engineering solutions at the intersection of **Cybersecurity, Artificial Intelligence, and Backend Development**.
+<br/><br/>
 
-My interests include:
+<a href="https://github.com/Prajwal-PG">
+  <img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+<a href="https://www.linkedin.com/in/prajwal-pg/">
+  <img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+</a>
+<a href="mailto:prajwalzone68@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+</a>
 
-- 🔐 Cryptography and secure communication systems
-- 🛡️ Defensive security engineering and secure API development
-- 🔍 Digital forensics and evidence analysis
-- 🌐 Network auditing and security assessment
-- 🤖 Applied AI and computer vision
-- ⚙️ Python backend development and automation
-
-Currently gaining corporate IT experience at **Manipal Technologies Limited** while developing security-focused software and exploring AI-driven engineering solutions.
+</div>
 
 ---
 
-## `02. TECHNICAL_STACK`
+## `01 // SYSTEM_PROFILE`
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
-</p>
+```text
+USER             : PRAJWAL P G
+DESIGNATION      : CYBERSECURITY & SOFTWARE ENGINEERING STUDENT
+EDUCATION        : BCA — CYBER SECURITY & DIGITAL FORENSICS
+INSTITUTION      : NITTE UNIVERSITY
+GRADUATION       : 2027
+LOCATION         : MANGALURU, INDIA
+CURRENT ROLE     : IT INTERN — MANIPAL TECHNOLOGIES LIMITED
+SPECIALIZATION   : CYBERSECURITY | CRYPTOGRAPHY | SECURE API DEVELOPMENT
+STATUS           : BUILDING • LEARNING • ENGINEERING
+```
 
-### Backend & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,flutter,html,css" />
-</p>
+I am a final-year BCA student specializing in Cyber Security and Digital Forensics at Nitte University. I enjoy building practical software, exploring security vulnerabilities, developing secure applications, and applying AI and computer vision to real-world problems.
 
-### Cybersecurity & Networking
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux" />
-  <img src="https://img.shields.io/badge/Nmap-Network_Auditing-214478?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cryptography-Secure_Systems-111111?style=for-the-badge&logo=letsencrypt&logoColor=00E5FF" />
-</p>
+My interests include cryptography, network auditing, digital forensics, secure communication systems, API development, and defensive security engineering.
 
-### AI & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://img.shields.io/badge/YOLOv8-Object_Detection-111111?style=for-the-badge&logoColor=00E5FF" />
-</p>
-
-### Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+Currently gaining corporate IT experience at **Manipal Technologies Limited**, while continuing to develop cybersecurity and software engineering projects.
 
 ---
 
-## `03. FEATURED_PROJECTS`
+## `02 // PROGRAMMING_LANGUAGES`
 
-### 🔹 ARGUS — AI Voice Assistant
-`Python` `Flask APIs` `AI` `Context Management`
+<div align="center">
 
-An AI-powered voice assistant designed for real-time interaction, command execution, and conversational context preservation.
+<img src="https://skillicons.dev/icons?i=python,c,java,cs,dart,js,html,css,sqlite&theme=dark&perline=5" />
 
-- Developing modular Python backend services.
-- Integrating AI-powered conversational capabilities.
-- Exploring persistent state and context management.
-- Working toward scalable multi-client communication.
+<br/><br/>
 
-🔗 **Repository:** [ARGUS Assistant](https://github.com/Prajwal-PG/ARGUS-Assistant-)
+![Python](https://img.shields.io/badge/Python-050816?style=for-the-badge&logo=python&logoColor=00E5FF)
+![C](https://img.shields.io/badge/C-050816?style=for-the-badge&logo=c&logoColor=00E5FF)
+![Java](https://img.shields.io/badge/Java-050816?style=for-the-badge&logo=openjdk&logoColor=00E5FF)
+![C Sharp](https://img.shields.io/badge/C%23-050816?style=for-the-badge&logo=csharp&logoColor=00E5FF)
+![Dart](https://img.shields.io/badge/Dart-050816?style=for-the-badge&logo=dart&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-050816?style=for-the-badge&logo=javascript&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-050816?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![HTML5](https://img.shields.io/badge/HTML5-050816?style=for-the-badge&logo=html5&logoColor=00E5FF)
+![CSS3](https://img.shields.io/badge/CSS3-050816?style=for-the-badge&logo=css3&logoColor=00E5FF)
 
----
-
-### 🔹 Phishing URL Detection Tool
-`Python` `Cybersecurity` `URL Analysis`
-
-A defensive security application focused on identifying suspicious URLs and potential phishing indicators.
-
-- Analyzing malicious URL structures and obfuscation patterns.
-- Exploring phishing indicators and suspicious web characteristics.
-- Developing security-focused detection workflows.
-
-🔗 **Repository:** [View GitHub Projects](https://github.com/Prajwal-PG?tab=repositories)
+</div>
 
 ---
 
-### 🔹 Real-Time Crowd Analytics System
-`Python` `OpenCV` `YOLOv8` `Computer Vision`
+## `03 // TECHNICAL_ARSENAL`
 
-A real-time computer vision solution for people detection, tracking, and crowd-density monitoring.
+### Development & Frameworks
 
-- Integrated YOLO-based detection with OpenCV.
-- Developed zone-based people-counting functionality.
-- Implemented real-time density monitoring.
-- Designed alert-oriented workflows for high-density situations.
+<div align="center">
 
-🔗 **Repository:** [View GitHub Projects](https://github.com/Prajwal-PG?tab=repositories)
+<img src="https://skillicons.dev/icons?i=flask,fastapi,flutter,supabase,opencv,git,github,vscode,visualstudio&theme=dark&perline=5" />
+
+</div>
+
+- **Backend Development:** Flask, FastAPI, REST APIs, WebSockets
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Mobile Development:** Flutter, Supabase
+- **Computer Vision:** OpenCV, YOLOv8
+- **Real-Time Systems:** Socket.IO, LiveKit
+- **Version Control:** Git, GitHub
+
+### Cybersecurity & Digital Forensics
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark&perline=5" />
+
+</div>
+
+- Network reconnaissance and LAN auditing
+- Nmap scanning and service enumeration
+- Vulnerability assessment fundamentals
+- Phishing URL analysis and detection
+- Digital forensics and evidence analysis
+- Cryptography and secure communication
+- RSA, ECC, ECDH, HKDF and AES-GCM
+- Security-focused API development
+- Incident analysis and threat investigation
+
+### Databases, Platforms & Tools
+
+- **Databases:** SQL, SQLite, Supabase
+- **Operating Systems:** Linux, Kali Linux, Windows
+- **Development Tools:** VS Code, Visual Studio, Git
+- **AI & Computer Vision:** OpenCV, YOLOv8, LLM-assisted development
+- **API Testing & Integration:** REST APIs, WebSockets
 
 ---
 
-### 🔹 Nmap Utilities & LAN Auditing
-`Python` `Nmap` `Kali Linux` `Network Security`
+## `04 // FEATURED_PROJECTS`
 
-A collection of network auditing utilities and playbooks for authorized network assessment.
+### 01. ARGUS — AI Voice Assistant
 
-- Network footprint mapping.
-- Host discovery and port scanning.
-- Service enumeration workflows.
-- Network security assessment utilities.
+**Technologies:** Python, C#, WPF, Flask, FastAPI, LiveKit, OpenAI API
 
-🔗 **Repository:** [View GitHub Projects](https://github.com/Prajwal-PG?tab=repositories)
+A desktop AI voice assistant project focused on voice interaction, command execution, and conversational functionality.
+
+- Voice-driven desktop interaction
+- AI-powered conversational capabilities
+- Backend and frontend integration
+- Real-time communication architecture
+
+[VIEW PROJECT →](https://github.com/Prajwal-PG/ARGUS-Assistant-)
+
+### 02. Phishing URL Detection Tool
+
+**Technologies:** Python, Cybersecurity, URL Analysis
+
+A defensive security project designed to analyze suspicious URLs and identify potentially malicious web structures and obfuscated links.
+
+- URL inspection and analysis
+- Identification of suspicious URL patterns
+- Phishing detection workflow
+
+[EXPLORE GITHUB →](https://github.com/Prajwal-PG)
+
+### 03. Real-Time Crowd Analytics System
+
+**Technologies:** Python, Flask, OpenCV, YOLOv8
+
+A computer vision-based system for real-time people detection, crowd monitoring, and zone-based analytics.
+
+- Real-time human detection
+- Zone-wise crowd counting
+- Live monitoring dashboard
+- High-density email alert functionality
+
+[EXPLORE GITHUB →](https://github.com/Prajwal-PG)
+
+### 04. Nmap Utilities & LAN Auditing
+
+**Technologies:** Python, Nmap, Linux, Networking
+
+A collection of network auditing scripts and configuration playbooks for understanding network environments.
+
+- Network footprint mapping
+- Host discovery
+- Port scanning
+- Service enumeration
+
+[EXPLORE GITHUB →](https://github.com/Prajwal-PG)
 
 ---
 
-## `04. PROFESSIONAL_EXPERIENCE`
+## `05 // PROFESSIONAL_EXPERIENCE`
 
 ### Manipal Technologies Limited
-**Corporate IT Intern | 6-Month Internship**
 
-- Gained practical exposure to enterprise IT and software development workflows.
-- Collaborated with API and development teams.
-- Worked on a Secure Communication Portal concept.
-- Explored controlled internal communication workflows and secure application development.
+**Corporate IT Intern | 2026**
+
+- Gaining practical exposure to corporate IT operations and development workflows.
+- Involved in work related to a Secure Communication Portal.
+- Exploring secure communication between external customer-facing and restricted internal environments.
+- Working with API-oriented development and controlled communication workflows.
 
 ---
 
-## `05. CERTIFICATIONS`
+## `06 // CERTIFICATIONS_AND_CREDENTIALS`
 
 - ISC2 Candidate
-- Mastercard Cybersecurity Job Simulation — Forage
-- Deloitte Data Analyst Job Simulation — Forage
-- TCS Cybersecurity Analyst Job Simulation — Forage
-- AI Appreciate Badge — AI for All
+- Mastercard — Cybersecurity Job Simulation (Forage)
+- Deloitte — Data Analyst Job Simulation (Forage)
+- Tata Group — Cybersecurity Analyst Job Simulation (Forage)
+- AI Appreciate Badge — AI For All
+- TCS iON — Tata Consultancy Services
 
 ---
 
-## `06. LEADERSHIP_AND_EVENT_EXPERIENCE`
+## `07 // LEADERSHIP_AND_EVENTS`
 
 **APEX DRIFT 2026 — Auto Fest**
-- Regional event organization and technical coordination.
 
-**ARENA X Esports Championship — Fiza by Nexus Mall**
-- Contributed to event technology, registration platform development, and technical coordination.
-- Worked on digital infrastructure supporting gaming event operations.
+Regional event organization and coordination experience involving event operations, media coordination, and promotional activities.
 
----
+**ARENA X — Esports Championship**
 
-## `07. GITHUB_ANALYTICS`
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajwal-PG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-PG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-PG&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-</p>
+Contributed to event technology and web development, including registration platform development and technical coordination for the gaming carnival at Fiza by Nexus Mall.
 
 ---
 
-## `08. CONNECT_WITH_ME`
+## `08 // GITHUB_ANALYTICS`
 
-I'm interested in opportunities involving:
+<div align="center">
 
-- Cybersecurity Engineering
-- Security Research & Digital Forensics
-- Python Backend Development
-- Applied AI & Defensive Security
-- Software Engineering
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prajwal-PG&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&bg_color=050816&include_all_commits=true" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajwal-pg/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prajwalzone68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-  </a>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-PG&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=050816&langs_count=10" />
 
-<p align="center">
-  <code>Building securely. Engineering intelligently. Learning continuously.</code>
-</p>
+<br/>
 
-<p align="center">
-  <sub>© 2026 Prajwal P G | Cybersecurity × AI × Engineering</sub>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-PG&bg_color=050816&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `09 // CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/prajwal-pg/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050816" />
+</a>
+
+<a href="https://github.com/Prajwal-PG">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-7C4DFF?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="mailto:prajwalzone68@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT_ME-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816" />
+</a>
+
+<br/><br/>
+
+```text
+[ SYSTEM MESSAGE ]
+
+Curiosity drives discovery.
+Engineering turns ideas into reality.
+Security makes innovation trustworthy.
+
+> END OF TRANSMISSION_
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:123B52,100:050816&height=120&section=footer" width="100%" />
+
+</div>
