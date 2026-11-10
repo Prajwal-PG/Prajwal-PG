@@ -1,41 +1,49 @@
 # Hi there, I'm Prajwal P G! 👋
 **BCA Cyber Security Student | Applied AI & Defensive Systems Builder**
 
-I am a final-year Cyber Security student focused on building secure architectures, defensive tools, and integrating AI into automation pipelines. I specialize in backend development, network auditing, and creating intelligent defensive software.
+I am a final-year Cyber Security student at Nitte University, specializing in cryptographic application design, secure API development, and intelligent defense systems. I bridge the gap between deep infrastructure security and practical software automation.
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus:** Engineering intelligent automation tools and robust security systems.
-- 🌱 **Learning:** Deepening my knowledge in advanced network security, digital forensics, and secure API frameworks.
-- 👯 **Collaboration:** Looking to collaborate on open-source **anti-cyber attack** platforms and defensive tooling.
-- 💬 **Ask Me About:** Python development, network exploration with Nmap, or Flask REST APIs.
+- 🔭 **Current Focus:** Securing backend automation pipelines and scaling defensive architectures.
+- 🌱 **Learning & Preparation:** Deepening my knowledge in advanced cryptography, digital forensics, and tactical leadership.
+- 👯 **Collaboration:** Actively looking to collaborate on open-source **anti-cyber attack** utilities and network testing frameworks.
+- 💬 **Ask Me About:** Network mapping (Nmap), Flask-based REST APIs, Python security tools, or computer vision tracking.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Arsenal
 
-#### 🔒 Security & Networking
-`Nmap` • `Network Auditing` • `Malicious URL Inspection` • `Digital Forensics`
+#### 🔒 Cyber Security & Core
+`Cryptography` • `Network Auditing & Recon` • `Phishing Infrastructure Analysis` • `Digital Forensics` • `Nmap`
 
-#### 💻 Programming & Backend Development
-`Python` • `Flask` • `REST APIs` • `OpenCV` • `Flutter`
+#### 💻 Languages & Frameworks
+`Python` • `C` • `SQL` • `Flask (REST APIs)` • `Flutter (Mobile UI)` • `HTML/CSS`
 
-#### ⚙️ Automation & Tooling
-`Git` • `Linux` • `YOLOv8 Framework` • `Object Detection`
+#### ⚙️ Frameworks & Libraries
+`OpenCV` • `YOLOv8 Framework` • `Linux (Kali Environment)` • `Git & Version Control`
 
 ---
 
-### 📊 Featured Defensive & Automation Projects
+### 📊 Featured Systems & Deployments
 
-*   **[ARGUS](https://github.com)** – An advanced real-time AI voice assistant showcasing robust backend integration and smart context preservation using Python and Flask APIs.
-*   **[Phishing URL Detection Tool](https://github.com/Prajwal-PG)** – A defensive security application designed to analyze, parse, and identify malicious web structures and phishing threats.
-*   **[Real-Time Crowd Analytics System](https://github.com/Prajwal-PG)** – A high-performance computer vision solution leveraging YOLOv8 and OpenCV for real-time edge processing and object tracking.
-*   **[LAN Auditing & Nmap Utilities](https://github.com)** – Custom scripts and structured processing playbooks to analyze local area network topologies and vulnerability landscapes.
+*   **[ARGUS](https://github.com/Prajwal-PG)** – A high-performance real-time AI voice assistant engineered with Python and Flask REST APIs, featuring continuous state processing and secure context layers.
+*   **[Phishing URL Detection Tool](https://github.com/Prajwal-PG)** – A defensive security application that analyzes, parses, and identifies malicious web structures, obfuscated links, and communication vectors.
+*   **[Real-Time Crowd Analytics System](https://github.com/Prajwal-PG)** – An edge-computing vision solution integrating YOLOv8 and OpenCV for high-speed object detection and spatial analytics tracking.
+*   **[Nmap Utilities & LAN Auditing](https://github.com/Prajwal-PG)** – Custom configuration playbooks and scripts designed for mapping network topologies, scanning target ports, and auditing local area network footprints.
+
+---
+
+### 🏆 Milestone Achievements
+- 🎓 **BCA Cyber Security Specialist** – Final-year engineering student in the 2027 graduation batch.
+- 🏢 **IT Corporate Intern** – Completed a 6-month corporate Information Technology internship with Manipal Technologies Limited.
+- 🎖️ **ISC2 Candidate** – Holder of the professional international cybersecurity association candidate badge.
+- ⚡ **Event Organizer & Lead** – Successfully orchestrated regional tech fests and championships, including *APEX DRIFT 2026* and the *ARENA X Esports Championship* at Fiza by Nexus Mall.
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Prajwal P G](https://linkedin.com)
-- **GitHub:** [@Prajwal-PG](https://github.com/Prajwal-PG)
+- 💼 **LinkedIn:** [prajwal-pg](https://linkedin.com)
+- 📧 **Professional Inquiries:** [Reach out via my LinkedIn Portal]
 
